@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-23T16:57:39 EET" name="Default suite" finished-at="2023-07-23T16:57:41 EET" duration-ms="2462">
+    <groups>
+    </groups>
+    <test started-at="2023-07-23T16:57:39 EET" name="Default test" finished-at="2023-07-23T16:57:41 EET" duration-ms="2462">
+      <class name="Tests.TC01_BookApiTest">
+        <test-method is-config="true" signature="report()[pri:0, instance:Tests.TC01_BookApiTest@6a57ae10]" started-at="2023-07-23T16:57:39 EET" name="report" finished-at="2023-07-23T16:57:39 EET" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method signature="GetBooklst()[pri:0, instance:Tests.TC01_BookApiTest@6a57ae10]" started-at="2023-07-23T16:57:39 EET" name="GetBooklst" finished-at="2023-07-23T16:57:41 EET" duration-ms="2159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetBooklst -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Tests.TC01_BookApiTest@6a57ae10]" started-at="2023-07-23T16:57:41 EET" name="teardown" finished-at="2023-07-23T16:57:41 EET" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Tests.TC01_BookApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
