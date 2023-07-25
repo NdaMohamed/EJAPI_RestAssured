@@ -39,6 +39,9 @@ This projects contains Test package that included:
 
 
 ## Report
+prerequisite:
+1) Download Allure binaries(zip) and set the Path
+   
 to run report run all tests from testng.xml file first then 
 Report 1 (allure report): open allureresult folder in system explorer --> run cmd command"allure serve", it will display allure report in a new broswer.
 
