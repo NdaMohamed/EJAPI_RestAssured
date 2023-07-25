@@ -5,7 +5,7 @@
     <classes>
       <class name="Tests.TC02_OrderApisTest">
         <methods>
-          <include name="testUpdateOrder"/>
+          <include name="testGetUpdatedOrder"/>
         </methods>
       </class> <!-- Tests.TC02_OrderApisTest -->
     </classes>

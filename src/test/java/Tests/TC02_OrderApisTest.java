@@ -38,6 +38,8 @@ public class TC02_OrderApisTest {
 	                .get("https://simple-books-api.glitch.me/orders/" +this.orderId)
 	                .then()
 	                .log().all()
+	                .assertThat().body("customerName", equalTo("Nada"))
+	                			 .body("bookId",equalTo(1))
 	                .statusCode(200);
 	    }
 	 @Test(priority = 3)
