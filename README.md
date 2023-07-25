@@ -39,4 +39,7 @@ This projects contains Test package that included:
 
 
 ## Report
-to run report run all tests from testng.xml file first then open allureresult folder in system explorer --> run cmd command"allure serve", it will display allure report in a new broswer.
+to run report run all tests from testng.xml file first then 
+Report 1 (allure report): open allureresult folder in system explorer --> run cmd command"allure serve", it will display allure report in a new broswer.
+
+Report 2 (Extent report): open test-output folder and click on index.html, it will display allure report in a new broswer.
